@@ -16,5 +16,5 @@ The Drum Kit is an interactive web application that allows users to play various
 - Sound Files: The drum sounds are stored as audio files and are played using JavaScript's audio API.
 
 - This drum kit project not only showcases the practical use of HTML, CSS, and JavaScript but also offers an engaging and interactive way to experience creating and playing music.
-# Pictures of the Web Application  ![Screenshot 2024-07-05 234955](https://github.com/priyashuu/DRUM-KIT/assets/150767072/45d2d130-0961-4828-abd3-95d30e4f9584)
+# Picture of the Web Application  ![Screenshot 2024-07-05 234955](https://github.com/priyashuu/DRUM-KIT/assets/150767072/45d2d130-0961-4828-abd3-95d30e4f9584)
 
